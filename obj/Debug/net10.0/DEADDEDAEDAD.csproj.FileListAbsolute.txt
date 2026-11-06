@@ -1,0 +1,14 @@
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\bin\Debug\net10.0\DEADDEDAEDAD.exe
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\bin\Debug\net10.0\DEADDEDAEDAD.deps.json
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\bin\Debug\net10.0\DEADDEDAEDAD.runtimeconfig.json
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\bin\Debug\net10.0\DEADDEDAEDAD.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\bin\Debug\net10.0\DEADDEDAEDAD.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\DEADDEDAEDAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\DEADDEDAEDAD.AssemblyInfoInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\DEADDEDAEDAD.AssemblyInfo.cs
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\DEADDEDAEDAD.csproj.CoreCompileInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\DEADDEDAEDAD.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\refint\DEADDEDAEDAD.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\DEADDEDAEDAD.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\DEADDEDAEDAD.genruntimeconfig.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\DEADDEDAEDAD\obj\Debug\net10.0\ref\DEADDEDAEDAD.dll
